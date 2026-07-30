@@ -1,0 +1,14 @@
+generated: '2026-07-19'
+method: searched
+source: https://deephealth.com/.well-known/security.txt
+note: >-
+  kheironmed.com (301) redirects to deephealth.com — Kheiron Medical Technologies
+  operates as part of RadNet/DeepHealth. The security.txt below is served on that
+  operative host and covers the Kheiron/DeepHealth products.
+host: https://deephealth.com
+documents:
+- path: /.well-known/security.txt
+  status: 200
+  file: kheiron-medical-technologies-security.txt
+- path: /.well-known/openid-configuration
+  status: 404

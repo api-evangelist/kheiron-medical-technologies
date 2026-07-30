@@ -1,0 +1,11 @@
+#If you would like to report a cyber or privacy matter, please email securityteam@deephealth.com 
+Contact: mailto:securityteam@deephealth.com 
+
+#Responsible Disclosure: If you would like to report a security vulnerability or inquire about our bug bounty program, please visit: Contact: https://app.inspectiv.com
+Contact: mailto:programs@inspectiv.com 
+
+#Expires 9Dec26
+Expires: 2026-12-09T23:59:59Z
+
+#Security Jobs https://deephealth.com/careers/
+Hiring: https://deephealth.com/careers/
