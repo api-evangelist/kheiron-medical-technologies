@@ -1,0 +1,29 @@
+# Front Door AI Index — kheiron-medical-technologies — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: kheiron-medical-technologies
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.kheironmed.com
+  final_host: deephealth.com
+  ownership: own
+  owner: kheiron-medical-technologies
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 23
+  host_score: 23
+  density: 28.08
+  words: 819
+  tiers:
+    agentic: 0
+    core: 23
+    model: 0
+  ambiguous: 4
+  top_terms:
+    AI: 19
+    artificial intelligence: 2
+    deep learning: 2
+    intelligence: 2
+    smart: 2
