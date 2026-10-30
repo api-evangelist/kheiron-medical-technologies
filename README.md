@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Kheiron Medical Technologies is a company surfaced as a portfolio company of atomico and added to the API Evangelist network as a stub for enrichment. Sector: health. This profile is a lead awaiting the enrichment pipeline.
+Kheiron Medical Technologies is a London-founded medical-imaging AI company best known for Mia (Mammography Intelligent Assessment), a deep-learning solution that supports radiologists in breast-cancer screening as an independent, concurrent, or triage reader. Founded in 2016 and backed by investors including Atomico, Kheiron now operates as part of RadNet's DeepHealth, whose portfolio spans breast, prostate, lung, brain, and thyroid imaging plus the Diagnostic, Operations, and TechLive suites. This API Evangelist profile tracks Kheiron/DeepHealth as a health-AI provider; the company exposes clinical products and enterprise integrations rather than a public self-serve developer API, so most machine-readable API artifacts are not applicable and this record captures its identity, security, and legal surface.
 
-Backed by: atomico — https://www.kheironmed.com
+**Areas:** Company · Health · Medical Imaging · Artificial Intelligence · Radiology · Breast Cancer Screening · Diagnostics
+
+## Kheiron Medical Technologies on APIs.io
+
+Everything profiled for Kheiron Medical Technologies is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/kheiron-medical-technologies/](https://apis.io/providers/kheiron-medical-technologies/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Kheiron Medical Technologies Domain Security](https://apis.io/security/kheiron-medical-technologies/kheiron-medical-technologies-domain-security/)
+- [Kheiron Medical Technologies Vulnerability Disclosure](https://apis.io/security/kheiron-medical-technologies/kheiron-medical-technologies-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.kheironmed.com)
+- [Support](https://deephealth.com/contact/)
+- [Security](https://deephealth.com/.well-known/security.txt)
+- [Terms of service](https://deephealth.com/terms-of-service/)
+- [Privacy policy](https://deephealth.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 11.8** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 14.7** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/kheiron-medical-technologies/](https://apis.io/providers/kheiron-medical-technologies/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Kheiron Medical Technologies: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/kheiron-medical-technologies/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
